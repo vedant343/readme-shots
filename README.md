@@ -14,4 +14,18 @@
 
 </div>
 
+<div>
+<div align="center">
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style-plastic-green&logo=linux&logoColor=black)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style-plastic-green&logo=Electron&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style-plastic-green&logo=node.js&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style-plastic-green&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style-plastic-green&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style-plastic-green&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style-plastic-green&logo=tailwind-css&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style-plastic-green&logo=OpenAI&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style-plastic-green&logo=chart.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-purple)
+<br/>
+<br/>
