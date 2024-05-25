@@ -39,3 +39,17 @@
 | <img align="center" src="https://github.com/vedanti-u/comet-terminal/blob/main/assets/icon-search.png" width="45" height="45"/>   | Get Instant error detection and quick fixes |
 | <img align="center" src="https://github.com/vedanti-u/comet-terminal/blob/main/assets/ai-summary-64px.png" width="50" height="50"/>  | Generate the detailed description of command  |
 </br>
+
+
+![Stars](https://img.shields.io/github/stars/roypriyanshu02/impressive-profile-readmes?color=gold&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
+![Pull requests](https://img.shields.io/github/issues-pr/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
+![Visitor](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Froypriyanshu02.impressive-profile-readmes%2Fbadge&style=for-the-badge)
+
+
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
