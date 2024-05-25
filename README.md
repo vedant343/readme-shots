@@ -29,3 +29,13 @@
 ![LangChain](https://img.shields.io/badge/langchain-purple)
 <br/>
 <br/>
+
+
+## 🚀 Features
+
+|  Buttons | Description |
+| ------------- | ------------- |
+| <img align="center" src="https://github.com/vedanti-u/comet-terminal/blob/main/assets/icon-ai.png" width="50" height="50"/>  | Write Query in Natural language and get command generated  |
+| <img align="center" src="https://github.com/vedanti-u/comet-terminal/blob/main/assets/icon-search.png" width="45" height="45"/>   | Get Instant error detection and quick fixes |
+| <img align="center" src="https://github.com/vedanti-u/comet-terminal/blob/main/assets/ai-summary-64px.png" width="50" height="50"/>  | Generate the detailed description of command  |
+</br>
